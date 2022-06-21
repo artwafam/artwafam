@@ -8,7 +8,7 @@ Alguns projetos que estou trabalhando:
   - 🐍 Website MoonDust◑®
   - 🍏 Website Damespo®
   
-![](https://github.com/artwafam/giphy-downsized-large.gif)
+<img src="https://github.com/artwafam/artwafam/blob/main/giphy-downsized-large.gif" alt="gorillaz">
 <!--
 **artwafam/artwafam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
