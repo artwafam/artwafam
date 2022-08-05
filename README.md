@@ -1,12 +1,12 @@
-### Olá, sou o Arthur 👋 - CEO da MoonDust◑® e Damespo®
+### Olá, sou o Arthur 👋
 
 <h5>Aqui você verá algumas bizarrices experimentais, portanto... Aproveite! 🌵<h5>
 
 Alguns projetos que estou trabalhando:
   - 🦎 Jogo de plataforma 2D
   - 🐊 Álbum de músicas
-  - 🐍 Website MoonDust◑®
-  - 🍏 Website Damespo®
+  - 🐍 Website MoonDust◑
+  - 🍏 Website Damespo
   
 <img src="https://github.com/artwafam/artwafam/blob/main/giphy-downsized-large.gif" alt="gorillaz">
 <!--
