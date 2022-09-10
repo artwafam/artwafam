@@ -1,6 +1,6 @@
 ### Olá, sou o Arthur 👋
 
-<h5>Aqui você verá algumas bizarrices experimentais, portanto... Aproveite! 🌵<h5>
+<h5>Aqui você verá algumas bizarrices experimentais 🌵<h5>
 
 Alguns projetos que estou trabalhando:
   - 🦎 Jogo de plataforma 2D
