@@ -4,9 +4,9 @@
 
 Alguns projetos que estou trabalhando:
   - 🦎 Jogo de plataforma 2D
-  - 🐊 Álbum de músicas
-  - 🐍 Website MoonDust◑
-  - 🍏 Website Damespo
+  - 🐊 Sai daqui bixo
+  - 🐍 sai?
+  - 🍏 venha a mim
   
 <img src="https://github.com/artwafam/artwafam/blob/main/giphy-downsized-large.gif" alt="gorillaz">
 <!--
