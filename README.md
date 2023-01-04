@@ -3,10 +3,10 @@
 <h5>Aqui você verá algumas bizarrices experimentais 🌵<h5>
 
 Alguns projetos que estou trabalhando:
-  - 🦎 Jogo 3D
   - 🐊 Site restauração de foto
   - 🐍 Catálogo de plantas online
-  - 🍏 Locomotiva à vapor
+  - 🍏 Escrita Ensaio de Filosofia
+  - 🦎 Jogo 3D
   
 <img src="https://github.com/artwafam/artwafam/blob/main/giphy-downsized-large.gif" alt="gorillaz">
 <!--
