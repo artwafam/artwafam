@@ -5,8 +5,9 @@
 Alguns projetos que estou trabalhando:
   - 🐊 Site restauração de foto
   - 🐍 Catálogo de plantas online
+  - 🥗 App de plano alimentar feito com GPT-3
   - 🍏 Escrita Ensaio de Filosofia
-  - 🦎 3D
+  - 🦎 Panana&Gar (Equipe Damespo)
   
 <img src="https://github.com/artwafam/artwafam/blob/main/giphy-downsized-large.gif" alt="gorillaz">
 <!--
