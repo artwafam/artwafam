@@ -1,7 +1,5 @@
 ### Olá, sou o Arthur 👋
 
-<h5>Aqui você verá algumas bizarrices experimentais 🌵<h5>
-
 Alguns projetos que estou trabalhando:
   - 🐊 Site restauração de foto
   - 🐍 Catálogo de plantas online
