@@ -6,7 +6,7 @@ Alguns projetos que estou trabalhando:
   - 🐊 Site restauração de foto
   - 🐍 Catálogo de plantas online
   - 🍏 Escrita Ensaio de Filosofia
-  - 🦎 Jogo 3D
+  - 🦎 3D
   
 <img src="https://github.com/artwafam/artwafam/blob/main/giphy-downsized-large.gif" alt="gorillaz">
 <!--
