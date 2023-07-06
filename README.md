@@ -1,11 +1,8 @@
 ### Olá, sou o Arthur 👋
 
 Alguns projetos que estou trabalhando:
-  - 🐊 Site restauração de foto
   - 🐍 Catálogo de plantas online
-  - 🥗 App de plano alimentar feito com GPT-3
-  - 🍏 Escrita Ensaio de Filosofia
-  - 🦎 Panana&Gar (Equipe Damespo)
+  - 🦎 Panana&Gar
   
 <img src="https://github.com/artwafam/artwafam/blob/main/giphy-downsized-large.gif" alt="gorillaz">
 <!--
