@@ -1,7 +1,7 @@
 ### Olá, sou o Arthur 👋
 
 Alguns projetos que estou trabalhando:
-  - 🐍 Catálogo de plantas online
+  - 🐍 3D models
   - 🦎 Panana&Gar
   
 <img src="https://github.com/artwafam/artwafam/blob/main/giphy-downsized-large.gif" alt="gorillaz">
