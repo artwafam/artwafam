@@ -1,5 +1,5 @@
 Alguns projetos que estou trabalhando:
-  - 🎮 RDK: A fast-paced, stylish third-person action-adventure shooter. Inspired by the cult classic MDK, RDK blends dynamic movement, creative weaponry, and absurd humor to deliver an engaging single-player experience.
+  - 🎮 Third-Person shooter
   - 🐍 3D models
 
 Visite meu site: [Arthur F.](https://artwafam.github.io/ArthurFernandes/index.html) 🌐
